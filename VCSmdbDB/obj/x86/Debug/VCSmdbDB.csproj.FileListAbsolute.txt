@@ -1,0 +1,11 @@
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\bin\Debug\library.mdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\bin\Debug\VCSmdbDB.exe.config
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\bin\Debug\VCSmdbDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\bin\Debug\VCSmdbDB.pdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\VCSmdbDB.Form1.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\VCSmdbDB.Properties.Resources.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\VCSmdbDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSmdbDB\VCSmdbDB\obj\x86\Debug\VCSmdbDB.pdb
